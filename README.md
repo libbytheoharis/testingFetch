@@ -1,2 +1,0 @@
-# testingFetch
-Created with CodeSandbox
